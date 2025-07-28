@@ -42,7 +42,7 @@ inclusion-backend/
 ### 1️⃣ Clona el repositorio y configura entorno
 
 ```bash
-git clone https://github.com/tu-usuario/inclusion.git
+git clone https:https://github.com/jamartinezv2023/inclusion-backend.git
 cd inclusion
 cp .env.example .env
 
