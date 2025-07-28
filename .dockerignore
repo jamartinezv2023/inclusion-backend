@@ -1,0 +1,17 @@
+target/
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+README.md
+.env
+*.iml
+.idea
+*.log
+*.class
+.mvn/
+**/application-dev.yml
+**/application-local.yml
+node_modules/
+*.db
+
